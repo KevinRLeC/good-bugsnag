@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.1.4 | 2018-05-08
+* 1.1.3
+* Fixing spacing issue in documentation
+* Adding docs for new changes based on new versions of hapi and good
+* Updating dependencies to pass security audit
+* Moving back to default export
+* Fixing lint warnings
+* Updating to support good v8 and updating tests
+
 ## v1.1.2 | 2016-07-13
 * Fix: Even better detection of boom errors
 
@@ -18,6 +27,7 @@
 
 ## v1.0.0 | 2015-09-09
 Init
+
 
 
 
